@@ -3,6 +3,8 @@ Capstone project for Udacity's Data Scientist Nano-Degree. Build a machine learn
 
 Blog post for this project can be found at the link: https://medium.com/@andrew.goode_70135/building-an-ml-model-in-pyspark-7d270ca59444
 
+Sparkify.ipynb: Contains the entire code package for imorting data, cleaning, data exploration, feature engineering and modelling. 
+
 Data Source: Data used was a small subset of the full Sparkify data made available by Udacity. The reason for this is that this project is run in a Jupyter notebook. To use the full dataset a cluster must be deployed on the cloud.
 Whilst this project utilises PySpark libraries, it does not utilize the clustering capabilities that Spark allows. 
 A future addition onto this work may deploy a larger portion of the dataset, using a cluster. 
